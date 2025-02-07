@@ -6,14 +6,16 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
-- 🌱 I’m currently learning **Java**
+
+
+- 😊 I’m **Lakshitha Dilshan**
+- 👦🏻 I'm 21 years old
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-
+- 👀 I’m interested in **HTML, CSS, JS, PHP, MySQL, C, C++, Java, React, MongoDB, Express, NodeJS, Python, Kotlin, AJAX, Bootstraps**
 - 📫 How to reach me **lakshithadilshan.info@gmail.com**
   
-- ⚡ Fun fact **Call me as JKP**
+- 📞 Contact me : **0764792982**
 
 </td>
 
