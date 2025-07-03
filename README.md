@@ -12,7 +12,7 @@
 - 👦🏻 I'm 21 years old
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-- 👀 I’m interested in **HTML, CSS, JS, PHP, MySQL, C, C++, Java, React, MongoDB, Express, NodeJS, Python, Kotlin, AJAX, Bootstraps**
+- 👀 I’m interested in **HTML, CSS, JS, PHP, MySQL,Java, React,Python**
 - 📫 How to reach me **lakshithadilshan.info@gmail.com**
   
 - 📞 Contact me : **0764792982**
